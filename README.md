@@ -47,10 +47,10 @@ A beautiful, secure, and feature-rich local chatroom application built with Reac
 
 ```bash
 # Download and run the installation script
-curl -fsSL (https://raw.githubusercontent.com/neoauroraproject/chatroom/main/install.sh) | bash
+curl -fsSL https://raw.githubusercontent.com/neoauroraproject/chatroom/main/install.sh | bash
 
 # Or download first and review
-wget (https://raw.githubusercontent.com/neoauroraproject/chatroom/main/install.sh)
+wget https://raw.githubusercontent.com/neoauroraproject/chatroom/main/install.sh
 chmod +x install.sh
 ./install.sh
 ```
